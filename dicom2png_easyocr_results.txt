@@ -1,0 +1,148 @@
+Processing time: 2.62 seconds
+Text blocks detected: 35
+
+Extracted text blocks:
+-----------------------
+Block 1 (Confidence: 0.89):
+HINDUSTHAN HOSPITAL
+Location: [[np.int32(8), np.int32(12)], [np.int32(254), np.int32(12)], [np.int32(254), np.int32(38)], [np.int32(8), np.int32(38)]]
+
+Block 2 (Confidence: 0.63):
+ARUMUGAM
+Location: [[np.int32(466), np.int32(14)], [np.int32(594), np.int32(14)], [np.int32(594), np.int32(38)], [np.int32(466), np.int32(38)]]
+
+Block 3 (Confidence: 1.00):
+ECHO
+Location: [[np.int32(918), np.int32(14)], [np.int32(984), np.int32(14)], [np.int32(984), np.int32(38)], [np.int32(918), np.int32(38)]]
+
+Block 4 (Confidence: 0.68):
+SPS-1E
+Location: [[np.int32(1132), np.int32(14)], [np.int32(1212), np.int32(14)], [np.int32(1212), np.int32(38)], [np.int32(1132), np.int32(38)]]
+
+Block 5 (Confidence: 1.00):
+09-09-2020
+Location: [[np.int32(6), np.int32(48)], [np.int32(124), np.int32(48)], [np.int32(124), np.int32(72)], [np.int32(6), np.int32(72)]]
+
+Block 6 (Confidence: 0.60):
+04:50.48 PM
+Location: [[np.int32(132), np.int32(46)], [np.int32(262), np.int32(46)], [np.int32(262), np.int32(72)], [np.int32(132), np.int32(72)]]
+
+Block 7 (Confidence: 1.00):
+2006921
+Location: [[np.int32(466), np.int32(46)], [np.int32(556), np.int32(46)], [np.int32(556), np.int32(72)], [np.int32(466), np.int32(72)]]
+
+Block 8 (Confidence: 0.72):
+AP 96.6% MI 1.0 TIS 0.5
+Location: [[np.int32(1), np.int32(93)], [np.int32(183), np.int32(93)], [np.int32(183), np.int32(113)], [np.int32(1), np.int32(113)]]
+
+Block 9 (Confidence: 0.98):
+mindray
+Location: [[np.int32(1110), np.int32(99)], [np.int32(1245), np.int32(99)], [np.int32(1245), np.int32(147)], [np.int32(1110), np.int32(147)]]
+
+Block 10 (Confidence: 0.98):
+Ao Diam
+Location: [[np.int32(64), np.int32(136)], [np.int32(164), np.int32(136)], [np.int32(164), np.int32(160)], [np.int32(64), np.int32(160)]]
+
+Block 11 (Confidence: 1.00):
+3.88 cm
+Location: [[np.int32(176), np.int32(136)], [np.int32(270), np.int32(136)], [np.int32(270), np.int32(162)], [np.int32(176), np.int32(162)]]
+
+Block 12 (Confidence: 0.99):
+DC-70 Exp
+Location: [[np.int32(1113), np.int32(137)], [np.int32(1248), np.int32(137)], [np.int32(1248), np.int32(174)], [np.int32(1113), np.int32(174)]]
+
+Block 13 (Confidence: 1.00):
+LA Diam
+Location: [[np.int32(64), np.int32(162)], [np.int32(164), np.int32(162)], [np.int32(164), np.int32(188)], [np.int32(64), np.int32(188)]]
+
+Block 14 (Confidence: 0.86):
+2.60 cm
+Location: [[np.int32(178), np.int32(162)], [np.int32(270), np.int32(162)], [np.int32(270), np.int32(190)], [np.int32(178), np.int32(190)]]
+
+Block 15 (Confidence: 0.67):
+M
+Location: [[np.int32(594), np.int32(150)], [np.int32(620), np.int32(150)], [np.int32(620), np.int32(182)], [np.int32(594), np.int32(182)]]
+
+Block 16 (Confidence: 1.00):
+B
+Location: [[np.int32(1116), np.int32(174)], [np.int32(1140), np.int32(174)], [np.int32(1140), np.int32(198)], [np.int32(1116), np.int32(198)]]
+
+Block 17 (Confidence: 0.48):
+LAIAo
+Location: [[np.int32(64), np.int32(190)], [np.int32(140), np.int32(190)], [np.int32(140), np.int32(216)], [np.int32(64), np.int32(216)]]
+
+Block 18 (Confidence: 1.00):
+0.67
+Location: [[np.int32(218), np.int32(192)], [np.int32(268), np.int32(192)], [np.int32(268), np.int32(216)], [np.int32(218), np.int32(216)]]
+
+Block 19 (Confidence: 0.94):
+F PH3.4
+Location: [[np.int32(1116), np.int32(200)], [np.int32(1198), np.int32(200)], [np.int32(1198), np.int32(224)], [np.int32(1116), np.int32(224)]]
+
+Block 20 (Confidence: 0.69):
+2 Acs
+Location: [[np.int32(42), np.int32(220)], [np.int32(118), np.int32(220)], [np.int32(118), np.int32(250)], [np.int32(42), np.int32(250)]]
+
+Block 21 (Confidence: 0.87):
+2.16 cm
+Location: [[np.int32(178), np.int32(220)], [np.int32(270), np.int32(220)], [np.int32(270), np.int32(248)], [np.int32(178), np.int32(248)]]
+
+Block 22 (Confidence: 0.95):
+D 16.0
+Location: [[np.int32(1114), np.int32(226)], [np.int32(1184), np.int32(226)], [np.int32(1184), np.int32(250)], [np.int32(1114), np.int32(250)]]
+
+Block 23 (Confidence: 1.00):
+G 54
+Location: [[np.int32(1114), np.int32(250)], [np.int32(1166), np.int32(250)], [np.int32(1166), np.int32(274)], [np.int32(1114), np.int32(274)]]
+
+Block 24 (Confidence: 0.71):
+FR 25
+Location: [[np.int32(1114), np.int32(276)], [np.int32(1180), np.int32(276)], [np.int32(1180), np.int32(300)], [np.int32(1114), np.int32(300)]]
+
+Block 25 (Confidence: 1.00):
+DR 125
+Location: [[np.int32(1116), np.int32(300)], [np.int32(1192), np.int32(300)], [np.int32(1192), np.int32(326)], [np.int32(1116), np.int32(326)]]
+
+Block 26 (Confidence: 0.94):
+iClear 4
+Location: [[np.int32(1112), np.int32(326)], [np.int32(1196), np.int32(326)], [np.int32(1196), np.int32(350)], [np.int32(1112), np.int32(350)]]
+
+Block 27 (Confidence: 1.00):
+Echo Boost
+Location: [[np.int32(1116), np.int32(350)], [np.int32(1240), np.int32(350)], [np.int32(1240), np.int32(376)], [np.int32(1116), np.int32(376)]]
+
+Block 28 (Confidence: 1.00):
+M
+Location: [[np.int32(1118), np.int32(388)], [np.int32(1142), np.int32(388)], [np.int32(1142), np.int32(414)], [np.int32(1118), np.int32(414)]]
+
+Block 29 (Confidence: 0.30):
+441-4 613/675
+Location: [[np.int32(611), np.int32(407)], [np.int32(727), np.int32(407)], [np.int32(727), np.int32(427)], [np.int32(611), np.int32(427)]]
+
+Block 30 (Confidence: 0.97):
+F PH3.4
+Location: [[np.int32(1114), np.int32(416)], [np.int32(1198), np.int32(416)], [np.int32(1198), np.int32(440)], [np.int32(1114), np.int32(440)]]
+
+Block 31 (Confidence: 0.97):
+D 16.0
+Location: [[np.int32(1114), np.int32(440)], [np.int32(1184), np.int32(440)], [np.int32(1184), np.int32(464)], [np.int32(1114), np.int32(464)]]
+
+Block 32 (Confidence: 0.66):
+G 54(+8)
+Location: [[np.int32(1116), np.int32(463)], [np.int32(1204), np.int32(463)], [np.int32(1204), np.int32(493)], [np.int32(1116), np.int32(493)]]
+
+Block 33 (Confidence: 0.56):
+V 50
+Location: [[np.int32(1114), np.int32(490)], [np.int32(1164), np.int32(490)], [np.int32(1164), np.int32(514)], [np.int32(1114), np.int32(514)]]
+
+Block 34 (Confidence: 1.00):
+DR 120
+Location: [[np.int32(1116), np.int32(516)], [np.int32(1192), np.int32(516)], [np.int32(1192), np.int32(540)], [np.int32(1116), np.int32(540)]]
+
+Block 35 (Confidence: 0.56):
+24.5127.0
+Location: [[np.int32(638), np.int32(878)], [np.int32(710), np.int32(878)], [np.int32(710), np.int32(902)], [np.int32(638), np.int32(902)]]
+
+
+Full text:
+HINDUSTHAN HOSPITAL ARUMUGAM ECHO SPS-1E 09-09-2020 04:50.48 PM 2006921 AP 96.6% MI 1.0 TIS 0.5 mindray Ao Diam 3.88 cm DC-70 Exp LA Diam 2.60 cm M B LAIAo 0.67 F PH3.4 2 Acs 2.16 cm D 16.0 G 54 FR 25 DR 125 iClear 4 Echo Boost M 441-4 613/675 F PH3.4 D 16.0 G 54(+8) V 50 DR 120 24.5127.0
